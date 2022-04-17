@@ -44,7 +44,7 @@ Also, it seems that internet access is more importent than the father's educatio
 The best chances to succeed has a student with internet access and a father with the highest schooling possible. Reversely, a student without internet access and a father with low education is likly to score not quiet as high as the other groups.
 
 ### Study Time & Gender vs Math Score
-![plot](.\gender_sturyTime_mathScore.png)
+![Alt text](gender_sturyTime_mathScore.png?raw=true)
 Boys and girls can improve their grades with more studying. The graphs are almost parallel thus males and females can increase their math score almost equally well with more studying. <br>
 So the biggest difference is that boys simply score higher in math.
 
