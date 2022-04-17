@@ -31,7 +31,7 @@ The data can be found here: https://www.oecd.org/pisa/data/
 ## Key Insights for Presentation
 
 ### Test scores for selected countries
-![Alt text](test_scores_country.png?raw=true)
+![Alt text](test_scores_country.png)
 
 In general, all those countries perform rather similar. For math the swiss excels, in science it's germany and for reading there is hardy a difference between the countires. <br>
 It seems that Italy has more outliers in the low scores than the other countries in each test. That must reduces their average quiet a bit. It might make sence for the schools in Italy to focus a little bit more on students that struggle to help them improve.
