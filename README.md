@@ -37,7 +37,7 @@ In general, all those countries perform rather similar. For math the swiss excel
 It seems that Italy has more outliers in the low scores than the other countries in each test. That must reduces their average quiet a bit. It might make sence for the schools in Italy to focus a little bit more on students that struggle to help them improve.
 
 ### Internet access and Father's education vs Math Score
-![Alt text](intenret_father_mathScore.png?raw=true = 250x)
+![Alt text](intenret_father_mathScore.png?raw=true)
 
 We can see that the higher the father's schooling and with Internet access, the better the student does at the math test. There is only one exception. When the kid does not have internet access and the father's schooling is ISCED level 3B, 3C the mean is higher than for students with fathers with ISCED level 3A education. The very best ones, the outliers, are still better when the father has a higher education. <br>
 Also, it seems that internet access is more importent than the father's education. All the groups with internet performed better than the ones without, regardless of the father's schooling. But again, that is very likly the sum of other factors as well. <br>
