@@ -8,6 +8,8 @@ The PISA (Programm for International Student Assessment) measures 15-year-olds a
 The original PISA 2012 dataset contained information from 485,490 students and 636 features. For my analysis I used only a couple of variables. The most importent ones are: Country, gender, math score, reading score, science score, study time and parent's schooling. <br> <br>
 In this investigation I examined which variables have an impact on the scores and how the countries compare to each other.
 
+### Data
+The data can be found here: https://www.oecd.org/pisa/data/
 
 ## Summary of Findings
 
